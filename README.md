@@ -1,5 +1,11 @@
 ## FloodPredAI: Flood Risk Assessment Model
 
+**Project Developed During:** AICTE-Accredited Virtual Internship on Artificial Intelligence & Machine Learning
+
+**Duration:** 4 Weeks
+
+**Focus Area:** Applying AI to Climate Risk Management
+
 ## Problem Statement
 Climate change is increasing the frequency and intensity of flooding, a major global humanitarian and economic threat.
 Traditional flood modeling methods are often slow and computationally expensive. 
