@@ -1,6 +1,6 @@
 import pandas as pd
 
-print("loading the data...")
+print("loading the data")
 data = pd.read_csv('flood_risk_dataset_india.csv')
 
 print("Data Shape (Rows,Columns):", data.shape)
